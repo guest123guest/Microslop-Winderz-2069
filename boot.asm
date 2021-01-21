@@ -5,11 +5,11 @@ findcpu AMD Ryan
 or else
 print "That CPU is too old and retarded to fit!"
 then
-include "c:\winderz\system32\bootsound.asm"
+include "c:\windows\system32\bootsound.asm"
 iffound
-include "c:\winderz\asm\sound.asm"
+include "c:\windows\asm\sound.asm"
 iffound
-include "c:\winderz\winvercode.asm"
+include "c:\windows\winvercode.asm"
 iffound
 start "c:\windows\kernel.exe"
 start "c:\windows\system.exe"
@@ -19,4 +19,4 @@ start "c:\autoexec.bat"
 
 If version = "COREOS"
 
-start "c:\winderz\system32\command.com"
+start "c:\windows\system32\command.com"
