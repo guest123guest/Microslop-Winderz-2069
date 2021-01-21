@@ -5,5 +5,5 @@ print "mmmmm"
 waitforkey
 start "md c:\winderz"
 start %Setup with Marketing BS%
-copy "d:\setup\*.*" to "c:\winderz"
+copy "d:\setup\*.*" to "c:\windows"
 reboot
