@@ -1,4 +1,4 @@
 include csrss.c
 %randomnumber% = %NTENCRYPTEDCODE%
-print "JSHFKLDSHFKSHDFKSHDFKHSDKGHSDKG"
+print "COCK"
 nt.decryptcode | print "%NTCODE%" 
