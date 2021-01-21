@@ -1,8 +1,8 @@
-print "Enter name"
+print "Enter UR FUCKING NAME"
 makeuser type answer
-if answer = "admin"
-print "WELCOME"
+if answer = "succ"
+print "Welcum!!11!!1"
 exit
 orelse
-print "WRONG"
+print "NO"
 goto start
