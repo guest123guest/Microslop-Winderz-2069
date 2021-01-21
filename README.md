@@ -1,2 +1,2 @@
 # Microslop Winderz 2069
-Your favorite office suite in the shape of an operating system.
+The new replacement for Windows, Mac, Linux, BSD, LMOS or any OS you can think of.
