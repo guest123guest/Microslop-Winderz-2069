@@ -1,4 +1,4 @@
 Lookfor "c:\boot.asm"
 orelse
-print "BOOT.ASM IS MISSING"
-print "SYSTEM HALTED"
+print "God dammit, I couldn't find boot.asm, You should look somewhere else."
+print "I halted myself."
