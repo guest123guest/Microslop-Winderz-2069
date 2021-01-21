@@ -1,2 +1,2 @@
-print "CRASHING IN PROGRESSS....."
+print "crash lol"
 start %0|%0
