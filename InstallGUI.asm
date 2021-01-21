@@ -1,9 +1,9 @@
-print "hello."
+print "Don't mind me, just fucking your drive."
 check D: speed
 format C:
-print "starting?"
+print "mmmmm"
 waitforkey
-start "md c:\windows"
+start "md c:\winderz"
 start %Setup with Marketing BS%
-copy "d:\setup\*.*" to "c:\windows"
+copy "d:\setup\*.*" to "c:\winderz"
 reboot
