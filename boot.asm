@@ -5,6 +5,10 @@ findcpu AMD Ryan
 or else
 print "That CPU is too old and retarded to fit!"
 then
+checkforethernet
+or else
+print "Ethernet!!!!! Need!"
+then
 include "c:\windows\system32\bootsound.asm"
 iffound
 include "c:\windows\asm\sound.asm"
